@@ -1,3 +1,12 @@
 [submodule "cpp-samples"]
 	path = cpp-samples
 	url = ../cpp-samples
+[submodule "py-samples"]
+	path = py-samples
+	url = ../py-samples
+[submodule "rs-samples"]
+	path = rs-samples
+	url = ../rs-samples
+[submodule "ts-samples"]
+	path = ts-samples
+	url = ../ts-samples
