@@ -10,3 +10,9 @@
 [submodule "ts-samples"]
 	path = ts-samples
 	url = ../ts-samples
+[submodule "hs-samples"]
+	path = hs-samples
+	url = ../hs-samples
+[submodule "js-samples"]
+	path = js-samples
+	url = ../js-samples
