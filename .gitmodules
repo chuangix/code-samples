@@ -16,3 +16,15 @@
 [submodule "js-samples"]
 	path = js-samples
 	url = ../js-samples
+[submodule "el-samples"]
+	path = el-samples
+	url = ../el-samples
+[submodule "cl-samples"]
+	path = cl-samples
+	url = ../cl-samples
+[submodule "scm-samples"]
+	path = scm-samples
+	url = ../scm-samples
+[submodule "clj-samples"]
+	path = clj-samples
+	url = ../clj-samples
