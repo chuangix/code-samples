@@ -28,3 +28,6 @@
 [submodule "clj-samples"]
 	path = clj-samples
 	url = ../clj-samples
+[submodule "elm-samples"]
+	path = elm-samples
+	url = ../elm-samples
