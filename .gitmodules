@@ -31,3 +31,24 @@
 [submodule "elm-samples"]
 	path = elm-samples
 	url = ../elm-samples
+[submodule "c-samples"]
+	path = c-samples
+	url = ../c-samples
+[submodule "xtend-samples"]
+	path = xtend-samples
+	url = ../xtend-samples
+[submodule "kt-samples"]
+	path = kt-samples
+	url = ../kt-samples
+[submodule "java-samples"]
+	path = java-samples
+	url = ../java-samples
+[submodule "lua-samples"]
+	path = lua-samples
+	url = ../lua-samples
+[submodule "purs-samples"]
+	path = purs-samples
+	url = ../purs-samples
+[submodule "go-samples"]
+	path = go-samples
+	url = ../go-samples
