@@ -52,3 +52,6 @@
 [submodule "go-samples"]
 	path = go-samples
 	url = ../go-samples
+[submodule "rb-samples"]
+	path = rb-samples
+	url = ../rb-samples
