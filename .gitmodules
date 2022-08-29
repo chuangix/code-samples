@@ -52,3 +52,6 @@
 [submodule "rb-samples"]
 	path = rb-samples
 	url = ../rb-samples
+[submodule "rkt-samples"]
+	path = rkt-samples
+	url = ../rkt-samples
