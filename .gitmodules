@@ -55,3 +55,6 @@
 [submodule "rkt-samples"]
 	path = rkt-samples
 	url = ../rkt-samples
+[submodule "prolog-samples"]
+	path = prolog-samples
+	url = ../prolog-samples
