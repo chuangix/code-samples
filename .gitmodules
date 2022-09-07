@@ -61,3 +61,6 @@
 [submodule "oz-samples"]
 	path = oz-samples
 	url = ../oz-samples
+[submodule "ml-samples"]
+	path = ml-samples
+	url = ../ml-samples
