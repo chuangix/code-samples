@@ -58,3 +58,6 @@
 [submodule "prolog-samples"]
 	path = prolog-samples
 	url = ../prolog-samples
+[submodule "oz-samples"]
+	path = oz-samples
+	url = ../oz-samples

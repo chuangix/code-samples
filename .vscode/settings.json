@@ -5,5 +5,5 @@
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "git.detectSubmodulesLimit": 20
+  "git.detectSubmodulesLimit": 30
 }
