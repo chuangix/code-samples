@@ -64,3 +64,6 @@
 [submodule "ml-samples"]
 	path = ml-samples
 	url = ../ml-samples
+[submodule "cs-samples"]
+	path = cs-samples
+	url = ../cs-samples
